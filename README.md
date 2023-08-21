@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @baiweicai54.
+- 👀 I’m interested in Backend developer in training, specializing in Django. 
+- 🌱 I’m currently learning Eager to build robust, efficient server-side solutions.
